@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta de colores de la aplicación -->
+    <color name="dark_primary">#5d4037</color>
+    <color name="light_primary">#d7ccc8</color>
+    <color name="primary">#795548</color>
+    <color name="text_icons">#FFFFFF</color>
+    <color name="accent">#9e9e9e</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="divider">#BDBDBD</color>
+</resources>
