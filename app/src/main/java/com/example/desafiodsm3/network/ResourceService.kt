@@ -8,6 +8,9 @@ interface ApiService {
     @GET("recursos")
     fun getRecursos(): Call<List<Recurso>>
 
+    @GET("recursos/{id}")
+    fun getRecursoById(@Path("id") id: String): Call<Recurso>
+
     @POST("recursos")
     fun createRecurso(@Body recurso: Recurso): Call<Recurso>
 
