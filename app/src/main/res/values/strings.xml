@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">desafiodsm3</string>
+    <string name="image_desc">descripcion</string>
+    <string name="enlace">Enlace</string>
+    <string name="url_de_la_imagen">URL de la imagen</string>
+    <string name="guardar">Guardar</string>
+    <string name="tipo">Tipo</string>
+    <string name="descripcion">Descripción</string>
+    <string name="titulo">Título</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Editar</string>
 </resources>
